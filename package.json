@@ -26,15 +26,16 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
+    "expect",
+    "testcafe",
+    "typescript",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "testcafe",
-    "typescript"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
